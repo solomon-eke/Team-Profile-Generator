@@ -17,7 +17,7 @@ Team Builder is a software engineering team generator command line application. 
 
 <p id='installation'></p>
 
-- Clone this repo to your local machince using https://github.com/solomon-eke/Employee-Summary
+- Clone this repo to your local machince using https://github.com/solomon-eke/Team-Profile-Generator
 
 - Install all dependencies by running:
 
@@ -51,7 +51,7 @@ Team Builder is a software engineering team generator command line application. 
 
 If you would like to contribute to this project you can:
 
-- Either fork or clone this repo https://github.com/solomon-eke/Employee-Summary
+- Either fork or clone this repo https://github.com/solomon-eke/Team-Profile-Generator
 
 - Add any changes/upgrades you would like
 
